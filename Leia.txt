@@ -1,0 +1,3 @@
+link: https://medium.com/@rodrigosonoki/como-criar-um-formul%C3%A1rio-usando-reactjs-e-o-google-sheet-1-2-4924601f84d3
+
+lembrando que precisa ativar o google sheet api
